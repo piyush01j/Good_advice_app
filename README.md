@@ -1,1 +1,3 @@
-# Good_advice_app
+Setup:
+
+run npm i && npm start
