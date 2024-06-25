@@ -1,3 +1,3 @@
-Setup:
 
-run npm i && npm start
+Setup:
+- run ```npm i && npm start```
